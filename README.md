@@ -2,9 +2,9 @@
 
 ## Project: Linux Server Configuration
 
-### IP  54.210.11.33
+### IP  52.201.217.176
 ### SSH Port 2200
-### URL http://54.210.11.33
+### URL http://52.201.217.176
 
 ### Steps to configure the Linux Server
  1. Create Dev Environment Instance
